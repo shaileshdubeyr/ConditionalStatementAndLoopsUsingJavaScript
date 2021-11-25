@@ -1,4 +1,4 @@
-let number = Math.floor( (Math.random() * 10 ) % 10 );
+let numner = Math.floor( (Math.random() * 10 ) % 10 );
 
 switch(number){
     case 1:
